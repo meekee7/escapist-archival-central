@@ -1,0 +1,3 @@
+- BrokenURLs.txt: Videos that cannot be downloaded. Some of them are plain broken, but most of them are hiding behind a paywall. TODO that file needs an update
+- VideodatabaseFull.xml: A list of all videos with a bit of metadata. Compiled from the sitemap and website queries. TODO that file needs an update.
+- ZPEpisodeDB.xml: A database of all the Zero Punctuation episodes with a lot of metadata. Compiled from various sources.
